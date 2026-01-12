@@ -1,2 +1,2 @@
-# sq-data--wearhouse-project
-building a modern wearhouse with SQL  server , inculding ETL processes data modelling and analytics
+about me 
+Iam akash this is my first data analytics project cheers mate !!
